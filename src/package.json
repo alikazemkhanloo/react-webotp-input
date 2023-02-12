@@ -1,16 +1,16 @@
 {
   "name": "react-webotp-input",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/alikazemkhanloo/react-webotp-input"
+  },
   "peerDependencies": {
     "react": "*"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
     "typescript": "^4.9.5"
-  },
-  "dependencies": {
-    "release-it": "^15.6.0"
   }
 }
