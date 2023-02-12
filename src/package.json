@@ -1,8 +1,11 @@
 {
   "name": "react-webotp-input",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "repository": {
     "url": "https://github.com/alikazemkhanloo/react-webotp-input"
   },
