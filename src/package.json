@@ -1,6 +1,6 @@
 {
   "name": "react-webotp-input",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -12,6 +12,10 @@
   },
   "repository": {
     "url": "https://github.com/alikazemkhanloo/react-webotp-input"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Ali Kazemkhanloo"
   },
   "peerDependencies": {
     "react": "*"
