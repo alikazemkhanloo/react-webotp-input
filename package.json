@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "name": "react-webotp-input-root",
+    "scripts": {
+        "example": "yarn workspace example",
+        "build": "yarn workspace react-webotp-input tsc --build"
+    },
+    "workspaces": [
+      "./example",
+      "./src"
+    ]
+  }
